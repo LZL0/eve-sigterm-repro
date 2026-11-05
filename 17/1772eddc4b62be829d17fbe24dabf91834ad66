@@ -1,0 +1,35 @@
+.gitignore
+  s_9e159499805c1c::t_b714069269e810 1-4
+README.md
+  s_9e159499805c1c::t_103d1dfc425949 1-35
+agent/agent.ts
+  s_9e159499805c1c::t_170d818768691d 1-11
+agent/channels/eve.ts
+  s_9e159499805c1c::t_8c823fdfccba9d 1-8
+agent/instructions.md
+  s_9e159499805c1c::t_e36e61e3be06bd 1
+agent/tools/post_note.ts
+  s_9e159499805c1c::t_85f49ec2650c1d 1-16
+bun.lock
+  s_9e159499805c1c::t_5d2b7a57cf2128 1-94
+package.json
+  s_9e159499805c1c::t_c45bbbb045d964 1-16
+repro.mjs
+  s_9e159499805c1c::t_e942dd0be8a4fa 1-83
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "171772eddc4b62be829d17fbe24dabf91834ad66",
+  "prompts": {},
+  "sessions": {
+    "s_9e159499805c1c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e42effd7-4d3b-4b06-b9ee-f27974e16f4c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "LZL0 <12474488+LZL0@users.noreply.github.com>"
+    }
+  }
+}
